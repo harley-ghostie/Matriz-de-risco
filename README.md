@@ -19,11 +19,19 @@ Exemplo:
 
 🔍 Classificação automatizada:<br>
   <b>Impacto:</b> 
-  🟢 Baixo /🟡 Médio / 🔴 Alto<br>
+  🟢 Baixo <br>
+  🟡 Médio <br> 
+  🔴 Alto<br>
   <b>Probabilidade:</b> 
-  🟢Baixa / 🟡Média / 🔴Alta<br>
-  <b>Risco:</b>
-  🔵 Informativo /🟢 Baixo / 🟡Médio / 🔴Alto / 🔴Crítico<br>
+  🟢Baixa  <br>
+  🟡Média  <br>
+  🔴Alta<br>
+  <b>Risco:</b><br>
+  🔵 Informativo <br>
+  🟢 Baixo <br>
+  🟡Médio <br>
+  🟠Alto <br>
+  🔴Crítico<br>
   OWASP Top 10 (1 ou mais categorias por vulnerabilidade)<br>
   MITRE ATT&CK (se nome corresponder a alguma técnica conhecida)<br>
 
