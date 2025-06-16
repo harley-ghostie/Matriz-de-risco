@@ -18,11 +18,11 @@ Exemplo:
     SAFE-001,MALWARE NO ARQUIVO EXECUTÁVEL,9.8,AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 🔍 Classificação automatizada:<br>
-  <b>Impacto:</b> 
+  <b>Impacto:</b> <br>
   🟢 Baixo <br>
   🟡 Médio <br> 
   🔴 Alto<br>
-  <b>Probabilidade:</b> 
+  <b>Probabilidade:</b> <br>
   🟢Baixa  <br>
   🟡Média  <br>
   🔴Alta<br>
