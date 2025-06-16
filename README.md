@@ -10,7 +10,7 @@ Este script em Python realiza a classificação automatizada de vulnerabilidades
 🕵️‍♂️ MITRE ATT&CK (associação por tática e técnica, se aplicável)<br>
 
 
-📁 ##Estrutura esperada do arquivo .txt<br>
+📁 ## Estrutura esperada do arquivo .txt<br>
 Cada linha representa uma vulnerabilidade:<br>
 <ID>,<Nome>,<CVSS Base Score>,<Vetores CVSS><br>
 Exemplo:<br>
@@ -31,7 +31,7 @@ Exemplo:<br>
 
 ![image](https://github.com/user-attachments/assets/6a3917d7-2f45-4bb1-b4d8-5c6e3f115d2c)
 
-🚀 ##Como usar<br>
+🚀 ## Como usar<br>
 Instale os requisitos:<br>
 
     pip install rich requests
