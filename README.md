@@ -31,7 +31,7 @@ Exemplo:
 
 ![image](https://github.com/user-attachments/assets/6a3917d7-2f45-4bb1-b4d8-5c6e3f115d2c)
 
-🚀 ## Como usar<br>
+🚀 <b>Como usar<br></b>
 Instale os requisitos:<br>
 
     pip install rich requests
