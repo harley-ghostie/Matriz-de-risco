@@ -42,10 +42,10 @@ Execute o script com o arquivo de entrada:<br>
 
 🧠 Lógica de Classificação<br>
 
-<b>Impacto e Probabilidade:</b> calculados com base no CVSS Base Score.
-<b>Risco: </b>definido por faixa CVSS conforme tabela oficial.
-<b>OWASP:</b> mapeado por palavras-chave reconhecidas no nome da vulnerabilidade. Pode retornar múltiplas categorias.
-<b>MITRE:</b> usa lista oficial pública do MITRE ATT&CK via JSON para cruzamento de nome.
+<b>Impacto e Probabilidade:</b> calculados com base no CVSS Base Score.<br>
+<b>Risco: </b>definido por faixa CVSS conforme tabela oficial.<br>
+<b>OWASP:</b> mapeado por palavras-chave reconhecidas no nome da vulnerabilidade. Pode retornar múltiplas categorias.<br>
+<b>MITRE:</b> usa lista oficial pública do MITRE ATT&CK via JSON para cruzamento de nome.<br>
 
 📌 <b>Referências<br></b>
 OWASP Top 10 2021<br>
