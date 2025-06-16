@@ -1,5 +1,5 @@
 # Matriz-de-risco
-📊 <b>Classificador de Riscos CVSS + OWASP + MITRE<br></b>
+📊 <b>Classificador de Riscos CVSS + OWASP + MITRE - Modelo 3x3<br></b>
 
 Este script em Python realiza a classificação automatizada de vulnerabilidades com base em:<br>
 
