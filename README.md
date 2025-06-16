@@ -10,10 +10,10 @@ Este script em Python realiza a classificação automatizada de vulnerabilidades
 🕵️‍♂️ MITRE ATT&CK (associação por tática e técnica, se aplicável)<br>
 
 
-📁 ## Estrutura esperada do arquivo .txt<br>
+📁 Estrutura esperada do arquivo .txt<br>
 Cada linha representa uma vulnerabilidade:<br>
 <ID>,<Nome>,<CVSS Base Score>,<Vetores CVSS><br>
-Exemplo:<br>
+Exemplo:
     
     SAFE-001,MALWARE NO ARQUIVO EXECUTÁVEL,9.8,AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
