@@ -29,16 +29,16 @@ sem arredondamento (alinhado à calculadora da NVD):
 <ul>
   <li><b>Exploitability</b> varia de <code>0.0</code> a <code>3.887042775</code>.
     <ul>
-      <li>🟢 <b>Baixa</b>: ≤ <code>1.295680925</code></li>
-      <li>🟡 <b>Média</b>: &gt; <code>1.295680925</code> e ≤ <code>2.59136185</code></li>
-      <li>🔴 <b>Alta</b>: &gt; <code>2.59136185</code></li>
+      <li>🟡 <b>Baixo</b>: ≤ <code>1.295680925</code></li>
+      <li>🟠 <b>Médio</b>: &gt; <code>1.295680925</code> e ≤ <code>2.59136185</code></li>
+      <li>🔴 <b>Alto</b>: &gt; <code>2.59136185</code></li>
     </ul>
   </li>
   <li><b>Impact</b> (considerando o pior caso <code>S:C</code>) varia de <code>0.0</code> a 
       <code>6.0477304915445185</code>.
     <ul>
-      <li>🟢 <b>Baixo</b>: ≤ <code>2.0159101638481727</code></li>
-      <li>🟡 <b>Médio</b>: &gt; <code>2.0159101638481727</code> e ≤ <code>4.031820327696345</code></li>
+      <li>🟡 <b>Baixo</b>: ≤ <code>2.0159101638481727</code></li>
+      <li>🟠 <b>Médio</b>: &gt; <code>2.0159101638481727</code> e ≤ <code>4.031820327696345</code></li>
       <li>🔴 <b>Alto</b>: &gt; <code>4.031820327696345</code></li>
     </ul>
   </li>
@@ -49,10 +49,10 @@ sem arredondamento (alinhado à calculadora da NVD):
 </p>
 <ul>
   <li>🔵 Informativo: = 0.0</li>
-  <li>🟢 Baixo: 0.1 – 3.9</li>
-  <li>🟡 Médio: 4.0 – 6.9</li>
-  <li>🟠 Alto: 7.0 – 8.9</li>
-  <li>🔴 Crítico: ≥ 9.0</li>
+  <li>🟡 Baixo: 0.1 – 3.9</li>
+  <li>🟠 Médio: 4.0 – 6.9</li>
+  <li>🔴 Alto: 7.0 – 8.9</li>
+  <li>⚫ Crítico: ≥ 9.0</li>
 </ul>
 
 <hr/>
