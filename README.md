@@ -15,7 +15,7 @@ Cada linha representa uma vulnerabilidade:<br>
 <ID>,<Nome>,<CVSS Base Score>,<Vetores CVSS><br>
 Exemplo:
     
-    SAFE-001,MALWARE NO ARQUIVO EXECUTÁVEL,9.8,AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    ID-001,MALWARE NO ARQUIVO EXECUTÁVEL,9.8,AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
 
 🔍 Classificação automatizada:<br>
   <b>Impacto:</b> <br>
