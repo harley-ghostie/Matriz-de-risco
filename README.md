@@ -22,20 +22,23 @@ Exemplo:
   🟡 Baixo <br>
   🟠 Médio <br> 
   🔴 Alto<br>
+  
   <b>Probabilidade:</b> <br>
   🟡 Baixo  <br>
   🟠 Médio  <br>
   🔴 Alto<br>
+  
   <b>Risco:</b><br>
-  🔵 Informativo <br>
   🟡 Baixo <br>
   🟠 Médio <br>
   🔴 Alto <br>
   ⚫ Crítico<br>
+  
   OWASP Top 10 (1 ou mais categorias por vulnerabilidade)<br>
   MITRE ATT&CK (se nome corresponder a alguma técnica conhecida)<br>
 
 🖥️ Saída em terminal com tabela colorida (via rich) — ideal para relatórios rápidos.<br>
+
 <img width="1337" height="403" alt="image" src="https://github.com/user-attachments/assets/3a722abe-19e8-49c0-804e-07683af11fa0" />
 
 🚀 <b>Como usar<br></b>
@@ -45,7 +48,7 @@ Instale os requisitos:<br>
 
 Execute o script com o arquivo de entrada:<br>
 
-    python classificador_risco.py --input vuln-safe.txt
+    python classificador_risco.py --input vuln-id.txt
 
 🧠 Lógica de Classificação<br>
 
